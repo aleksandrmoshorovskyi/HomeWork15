@@ -11,6 +11,16 @@
 		A8E9D72C2BC7BCE00095CB91 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9D72B2BC7BCE00095CB91 /* SceneDelegate.swift */; };
 		A8E9D7332BC7BCE20095CB91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8E9D7322BC7BCE20095CB91 /* Assets.xcassets */; };
 		A8E9D7362BC7BCE20095CB91 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = A8E9D7352BC7BCE20095CB91 /* Base */; };
+		A8E9D73E2BC7BE3D0095CB91 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9D73D2BC7BE3D0095CB91 /* WelcomeViewController.swift */; };
+		A8E9D7402BC7BE4B0095CB91 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9D73F2BC7BE4B0095CB91 /* SignInViewController.swift */; };
+		A8E9D7422BC7BE5C0095CB91 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9D7412BC7BE5C0095CB91 /* SignUpViewController.swift */; };
+		A8E9D7442BC7BE650095CB91 /* MainTabbarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9D7432BC7BE650095CB91 /* MainTabbarViewController.swift */; };
+		A8E9D7462BC7BE6D0095CB91 /* WhiteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9D7452BC7BE6D0095CB91 /* WhiteViewController.swift */; };
+		A8E9D7482BC7BE750095CB91 /* BrownViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9D7472BC7BE750095CB91 /* BrownViewController.swift */; };
+		A8E9D74A2BC7BE7D0095CB91 /* BlackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9D7492BC7BE7D0095CB91 /* BlackViewController.swift */; };
+		A8E9D74C2BC7BE850095CB91 /* YellowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9D74B2BC7BE850095CB91 /* YellowViewController.swift */; };
+		A8E9D74E2BC7BE8D0095CB91 /* RedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9D74D2BC7BE8D0095CB91 /* RedViewController.swift */; };
+		A8E9D7502BC7BE990095CB91 /* GreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E9D74F2BC7BE990095CB91 /* GreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +30,16 @@
 		A8E9D7322BC7BCE20095CB91 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A8E9D7352BC7BCE20095CB91 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A8E9D7372BC7BCE20095CB91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8E9D73D2BC7BE3D0095CB91 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		A8E9D73F2BC7BE4B0095CB91 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		A8E9D7412BC7BE5C0095CB91 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		A8E9D7432BC7BE650095CB91 /* MainTabbarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabbarViewController.swift; sourceTree = "<group>"; };
+		A8E9D7452BC7BE6D0095CB91 /* WhiteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhiteViewController.swift; sourceTree = "<group>"; };
+		A8E9D7472BC7BE750095CB91 /* BrownViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrownViewController.swift; sourceTree = "<group>"; };
+		A8E9D7492BC7BE7D0095CB91 /* BlackViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlackViewController.swift; sourceTree = "<group>"; };
+		A8E9D74B2BC7BE850095CB91 /* YellowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YellowViewController.swift; sourceTree = "<group>"; };
+		A8E9D74D2BC7BE8D0095CB91 /* RedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedViewController.swift; sourceTree = "<group>"; };
+		A8E9D74F2BC7BE990095CB91 /* GreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +74,16 @@
 			children = (
 				A8E9D7292BC7BCE00095CB91 /* AppDelegate.swift */,
 				A8E9D72B2BC7BCE00095CB91 /* SceneDelegate.swift */,
+				A8E9D73D2BC7BE3D0095CB91 /* WelcomeViewController.swift */,
+				A8E9D73F2BC7BE4B0095CB91 /* SignInViewController.swift */,
+				A8E9D7412BC7BE5C0095CB91 /* SignUpViewController.swift */,
+				A8E9D7432BC7BE650095CB91 /* MainTabbarViewController.swift */,
+				A8E9D7452BC7BE6D0095CB91 /* WhiteViewController.swift */,
+				A8E9D7472BC7BE750095CB91 /* BrownViewController.swift */,
+				A8E9D7492BC7BE7D0095CB91 /* BlackViewController.swift */,
+				A8E9D74B2BC7BE850095CB91 /* YellowViewController.swift */,
+				A8E9D74D2BC7BE8D0095CB91 /* RedViewController.swift */,
+				A8E9D74F2BC7BE990095CB91 /* GreenViewController.swift */,
 				A8E9D7322BC7BCE20095CB91 /* Assets.xcassets */,
 				A8E9D7342BC7BCE20095CB91 /* LaunchScreen.storyboard */,
 				A8E9D7372BC7BCE20095CB91 /* Info.plist */,
@@ -131,8 +161,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A8E9D7502BC7BE990095CB91 /* GreenViewController.swift in Sources */,
+				A8E9D7402BC7BE4B0095CB91 /* SignInViewController.swift in Sources */,
+				A8E9D7462BC7BE6D0095CB91 /* WhiteViewController.swift in Sources */,
+				A8E9D73E2BC7BE3D0095CB91 /* WelcomeViewController.swift in Sources */,
+				A8E9D7482BC7BE750095CB91 /* BrownViewController.swift in Sources */,
+				A8E9D74C2BC7BE850095CB91 /* YellowViewController.swift in Sources */,
 				A8E9D72A2BC7BCE00095CB91 /* AppDelegate.swift in Sources */,
+				A8E9D7442BC7BE650095CB91 /* MainTabbarViewController.swift in Sources */,
+				A8E9D74E2BC7BE8D0095CB91 /* RedViewController.swift in Sources */,
 				A8E9D72C2BC7BCE00095CB91 /* SceneDelegate.swift in Sources */,
+				A8E9D7422BC7BE5C0095CB91 /* SignUpViewController.swift in Sources */,
+				A8E9D74A2BC7BE7D0095CB91 /* BlackViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
